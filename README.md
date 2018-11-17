@@ -1,0 +1,2 @@
+# Human Activity Project
+This is a project that uses my time logging data of around 5-6 months. The first part tries to analyze my most productive hours by defining what activities are considered productive. The second part tries to build a predictive model to based on the past 5 activities. This uses a 2-layer LSTM model, and is simple enough to train reasonably quickly on a CPU. It was trained on a AMD A8 CPU, and took around 6 seconds per epoch.
